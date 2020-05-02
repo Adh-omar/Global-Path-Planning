@@ -1,3 +1,6 @@
+# Learned from https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
+
+
 class Point:
     def __init__(self, x, y):
         self.x = x
